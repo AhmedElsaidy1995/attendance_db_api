@@ -1,0 +1,7 @@
+Run main.py and wait until The Flask App starts
+
+Use url like this to check attendance
+http://localhost:8000/attendance/EMP01/2020-04-03
+
+Use url like this to see employee record
+http://localhost:8000/record/EMP01
